@@ -9,7 +9,7 @@
             <div class="col-md-8 col-md-offset-2">
                 {% include header.html %}
                 <div id="content">
-                    {{ content }}
+                    {{ content | replace: '#rmch', '<b>#rmch</b>' | replace: '#rice', '<b>#rice</b>' }}
                 </div>
             </div>
         </div>
