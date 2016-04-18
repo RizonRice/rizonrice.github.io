@@ -23,5 +23,5 @@ Failure to abide by these simple guidelines may ultimately result in permanent r
 
 This list is not all inclusive, and you may be kicked or banned at the mods discretion for any, or no reason.
 
-#rice is not the channel for discussing the merits or criticisms of these rules, please bring any concerns to #rmch instead.
+\#rice is not the channel for discussing the merits or criticisms of these rules, please bring any concerns to #rmch instead.
 
