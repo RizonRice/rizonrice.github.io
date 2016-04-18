@@ -1,0 +1,12 @@
+# Site settings
+title: '#rice'
+description: 'Technology community with a focus on customisation, configuration and design.'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rizonrice.github.io" # the base hostname & protocol for your site
+github_username:  RizonRice
+
+# Build settings
+markdown: kramdown
+sass:
+    style: compressed
+    sass_dir: _sass

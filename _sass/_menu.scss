@@ -1,0 +1,13 @@
+.inline-menu {
+    &:before {
+        content: '[ ';
+    }
+
+    &:after {
+        content: ' ]';
+    }
+
+    & > * {
+        display: inline;
+    }
+}
