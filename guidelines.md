@@ -5,7 +5,7 @@ title: '#rice Community Guidelines'
 
 <p class="text-danger text-center">These guidelines are a work-in-progress and are subject to change at any time.</p>
 
-#rice is a community with a strong focus on technology - whilst being mainly a ricing channel, other related topics surrounding technology are generally acceptable. However, prolonged discussion of other less-related topics is discouraged. Examples include but are not limited to:
+\#rice is a community with a strong focus on technology - whilst being mainly a ricing channel, other related topics surrounding technology are generally acceptable. However, prolonged discussion of other less-related topics is discouraged. Examples include but are not limited to:
 
 * Sex
 * Drug use
