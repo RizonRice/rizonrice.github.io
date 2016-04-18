@@ -47,7 +47,7 @@ always find your (or a similar) question that will help you get going again.
 
 "How do I do x in y?", "Is it possible to do x with y?". "What does x do?".
 
-These are all way to common questions, especially for people who are starting
+These are all way too common questions, especially for people who are starting
 with linux. 99% of the applications/binaries you're using have some kind of
 manual through either `$ man NAME_OF_APPLICATION` or `$ NAME_OF_APPLICATION
 --help`. This will very likely contain the solution one way or another.
