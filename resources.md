@@ -334,7 +334,7 @@ sudo fc-cache -f -v
   - [puush.me](http://puush.me)
   - [transfer.sh](https://transfer.sh)
   - [curl.io](https://curl.io)
-  - [madokami.com/](https://madokami.com/)
+  - [madokami.com](https://madokami.com/)
   - [u.pste.pw](https://u.pste.pw)
 - Upload tools
   - [Moe](https://github.com/Imakethings/Moe)
