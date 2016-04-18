@@ -9,7 +9,7 @@
             <div class="col-md-8 col-md-offset-2">
                 {% include header.html %}
                 <div id="content">
-                    {{ content }}
+                    {{ content | replace: '#rmch', '<a href="https://qchat.rizon.net/?channels=rice">#rmch</a>' }}
                 </div>
             </div>
         </div>
