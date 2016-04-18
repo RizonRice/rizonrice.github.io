@@ -199,18 +199,18 @@ inside a graphical user interface is often called a terminal window.
 - [dotshare.it](http://dotshare.it/category/terms/colors)
 
 # Wallpapers
-- [http://alpha.wallhaven.cc](http://alpha.wallhaven.cc)
-- [http://simpledesktops.com](http://simpledesktops.com)
-- [http://subtlepatterns.com](http://subtlepatterns.com)
-- [http://www.squidfingers.com/patterns](http://www.squidfingers.com/patterns)
-- [https://unsplash.com](https://unsplash.com)
-- [https://nik.bot.nu/browse.html](https://nik.bot.nu/browse.html)
-- [http://4walled.cc](http://4walled.cc)
-- [http://www.stripegenerator.com](http://www.stripegenerator.com)
-- [http://www.tartanmaker.com](http://www.tartanmaker.com)
-- [https://www.flickr.com](https://www.flickr.com)
-- [https://deviantart.com](https://deviantart.com)
-- [http://gratisography.com](http://gratisography.com)
+- [alpha.wallhaven.cc](http://alpha.wallhaven.cc)
+- [simpledesktops.com](http://simpledesktops.com)
+- [subtlepatterns.com](http://subtlepatterns.com)
+- [squidfingers.com](http://www.squidfingers.com/patterns)
+- [unsplash.com](https://unsplash.com)
+- [nik.bot.nu](https://nik.bot.nu/browse.html)
+- [4walled.cc](http://4walled.cc)
+- [stripegenerator.com](http://www.stripegenerator.com)
+- [tartanmaker.com](http://www.tartanmaker.com)
+- [flickr.com](https://www.flickr.com)
+- [deviantart.com](https://deviantart.com)
+- [gratisography.com](http://gratisography.com)
 
 # Fonts
 
