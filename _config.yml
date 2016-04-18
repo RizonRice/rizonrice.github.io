@@ -6,7 +6,9 @@ url: "https://rizonrice.github.io" # the base hostname & protocol for your site
 github_username: RizonRice
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+    extensions: [autolink]
 sass:
     style: compressed
     sass_dir: _sass
