@@ -18,7 +18,7 @@ Otherwise, we generally abide by the following behaviours.
 * Playful 'banter' is okay - just be wise about where to draw the line!
 * Keep "roleplay" in PM, nobody wants to see it.
 * Most of the bots in the channel can be operated over PM, so if your use of a bot dictates more than a few lines in a short amount of time, take it to PM.
-* Refrain from "mods are nazis"-esque shitposting, it does nothing but cause drama and more shitposting. If you have a specific problem with any mods or moderation of the channel in general, bring it #rmch, we're always looking for ways to improve.
+* Refrain from "mods are nazis"-esque shitposting, it does nothing but cause drama and more shitposting. If you have a specific problem with any mods or moderation of the channel in general, bring it to #rmch, we're always looking for ways to improve.
 
 Failure to abide by these simple guidelines may ultimately result in permanent removal from the channel.
 
