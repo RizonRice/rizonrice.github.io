@@ -1,6 +1,6 @@
 ---
 layout: default
-title: '#rice Community Guidelines'
+title: Community Guidelines
 ---
 
 <p class="text-danger text-center">These guidelines are a work-in-progress and are subject to change at any time.</p>
