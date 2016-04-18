@@ -4,7 +4,7 @@ title: "list o' resources"
 description: 'Ricing resources for Linux, Mac and Windows'
 ---
 
-[Pull requests](https://github.com/RizonRice/ref) for contributions are more than welcome.
+[Pull requests](https://github.com/RizonRice/rizonrice.github.io/edit/master/ref.md) for contributions are more than welcome.
 
 # Table of contents
 - [A quick summary](#how)
@@ -186,41 +186,41 @@ inside a graphical user interface is often called a terminal window.
   - [Fisherman](http://fisherman.sh/)
 
 # Color schemes
-- http://terminal.sexy
-- http://coolors.co
-- http://paletton.com
-- http://www.xcolors.net
-- http://www.colourlovers.com
-- http://www.materialpalette.com
-- http://www.transparenttextures.com
-- http://daylerees.github.io
-- http://www.imagecolorpicker.com
-- http://pltts.me
-- http://dotshare.it/category/terms/colors
+- [terminal.sexy](http://terminal.sexy)
+- [coolors.co](http://coolors.co)
+- [paletton.com](http://paletton.com)
+- [xcolors.net](http://www.xcolors.net)
+- [colourlovers.com](http://www.colourlovers.com)
+- [materialpalette.com](http://www.materialpalette.com)
+- [transparenttextures.com](http://www.transparenttextures.com)
+- [daylerees.github.io](http://daylerees.github.io)
+- [imagecolorpicker.com](http://www.imagecolorpicker.com)
+- [pltts.me](http://pltts.me)
+- [dotshare.it](http://dotshare.it/category/terms/colors)
 
 # Wallpapers
-- http://alpha.wallhaven.cc
-- http://simpledesktops.com
-- http://subtlepatterns.com
-- http://www.squidfingers.com/patterns
-- https://unsplash.com
-- https://nik.bot.nu/browse.html
-- http://4walled.cc
-- http://www.stripegenerator.com
-- http://www.tartanmaker.com
-- https://www.flickr.com
-- https://deviantart.com
-- http://gratisography.com
+- [http://alpha.wallhaven.cc](http://alpha.wallhaven.cc)
+- [http://simpledesktops.com](http://simpledesktops.com)
+- [http://subtlepatterns.com](http://subtlepatterns.com)
+- [http://www.squidfingers.com/patterns](http://www.squidfingers.com/patterns)
+- [https://unsplash.com](https://unsplash.com)
+- [https://nik.bot.nu/browse.html](https://nik.bot.nu/browse.html)
+- [http://4walled.cc](http://4walled.cc)
+- [http://www.stripegenerator.com](http://www.stripegenerator.com)
+- [http://www.tartanmaker.com](http://www.tartanmaker.com)
+- [https://www.flickr.com](https://www.flickr.com)
+- [https://deviantart.com](https://deviantart.com)
+- [http://gratisography.com](http://gratisography.com)
 
 # Fonts
 
 ## Where to get fonts?
-- http://www.dafont.com
-- http://fontawesome.io
-- http://ionicons.com
-- https://github.com/chrissimpkins/codeface
-- https://github.com/Tecate/bitmap-fonts
-- https://github.com/brabadu/awesome-fonts
+- [dafont.com](http://www.dafont.com)
+- [fontawesome.io](http://fontawesome.io)
+- [ionicons.com](http://ionicons.com)
+- [codeface](https://github.com/chrissimpkins/codeface)
+- [bitmap-fonts](https://github.com/Tecate/bitmap-fonts)
+- [awesome-fonts](https://github.com/Tecate/bitmap-fonts)
 
 On Debian/Ubuntu you need to enable bitmap fonts first:
 
@@ -232,14 +232,11 @@ sudo fc-cache -f -v
 ## Font rendering
 
 #### Windows
-- https://code.google.com/p/gdipp
-- https://code.google.com/p/mactype - [installer](http://spoonm.org/share/mactype.exe)
+- [gdipp](https://code.google.com/p/gdipp)
+- [actype](https://code.google.com/p/mactype) - [installer](http://spoonm.org/share/mactype.exe)
 
 #### Linux
-- https://wiki.archlinux.org/index.php/Infinality
-- https://aur.archlinux.org/packages/freetype2-ubuntu
-- https://aur.archlinux.org/packages/fontconfig-ubuntu
-- https://aur.archlinux.org/packages/cairo-ubuntu
+- [Infinality](https://wiki.archlinux.org/index.php/Infinality)
 
 #### OSX
 *Do you even need it?*
@@ -329,16 +326,16 @@ sudo fc-cache -f -v
 
 # Sharing it
 - File hosts
-  - https://mixtape.moe
-  - https://catbox.moe
-  - https://u.teknik.io
-  - http://1339.cf
-  - https://maxfile.ro
-  - http://puush.me
-  - https://transfer.sh
-  - https://curl.io
-  - https://madokami.com/
-  - https://u.pste.pw
+  - [mixtape.moe](https://mixtape.moe)
+  - [catbox.moe](https://catbox.moe)
+  - [teknik.io](https://u.teknik.io)
+  - [1339.cf](http://1339.cf)
+  - [maxfile.ro](https://maxfile.ro)
+  - [puush.me](http://puush.me)
+  - [transfer.sh](https://transfer.sh)
+  - [curl.io](https://curl.io)
+  - [madokami.com/](https://madokami.com/)
+  - [u.pste.pw](https://u.pste.pw)
 - Upload tools
   - [Moe](https://github.com/Imakethings/Moe)
   - [ShareX](https://getsharex.com/)
@@ -355,9 +352,9 @@ sudo fc-cache -f -v
 - Screen recording
   - [Screencast](http://twily.info/scripts/screencast#view) (Uses ffmpeg to record screen to webm)
 - Pastebins
-  - https://p.teknik.io
-  - https://spit.mixtape.moe
-  - http://ix.io
-  - http://sprunge.us
-  - https://ptpb.pw
-  - https://pste.pw
+  - [teknik.io](https://p.teknik.io)
+  - [mixtape.moe](https://spit.mixtape.moe)
+  - [ix.io](http://ix.io)
+  - [sprunge.us](http://sprunge.us)
+  - [ptpb.pw](https://ptpb.pw)
+  - [pste.pw](https://pste.pw)
