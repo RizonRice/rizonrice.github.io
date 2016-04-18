@@ -233,7 +233,7 @@ sudo fc-cache -f -v
 
 #### Windows
 - [gdipp](https://code.google.com/p/gdipp)
-- [actype](https://code.google.com/p/mactype) - [installer](http://spoonm.org/share/mactype.exe)
+- [mactype](https://code.google.com/p/mactype) - [installer](http://spoonm.org/share/mactype.exe)
 
 #### Linux
 - [Infinality](https://wiki.archlinux.org/index.php/Infinality)
