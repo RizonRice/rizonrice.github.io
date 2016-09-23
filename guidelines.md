@@ -21,8 +21,7 @@ Otherwise, we generally abide by the following behaviours.
 * Refrain from "mods are nazis"-esque shitposting, it does nothing but cause drama and more shitposting. If you have a specific problem with any mods or moderation of the channel in general, bring it to #rmch, we're always looking for ways to improve.
 * Please don't bring bots into \#rice without discussing it in \#rmch first, and especially don't test your bot in \#rice under any circumstances.
 * Piracy: Talking about it is OK, linking to pirated material directly, or other resources whose sole purpose is linking to said materials, is not.
-* Please respect the fact that \#rice, like much of the internet, is an English-speaking community. Any non-English discussion must be taken to PM or 
-done in English so you don't exclude the rest of the channel.
+* Please respect the fact that \#rice, like much of the internet, is an English-speaking community. Any non-English discussion must be taken to PM or done in English so you don't exclude the rest of the channel.
 
 Failure to abide by these simple guidelines may ultimately result in permanent removal from the channel.
 
