@@ -179,6 +179,8 @@ inside a graphical user interface is often called a terminal window.
 
 #### OSX
 - [Iterm2](https://www.iterm2.com)
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+
 
 # Shells
 - [Zsh](http://www.zsh.org/)
