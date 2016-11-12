@@ -181,7 +181,6 @@ inside a graphical user interface is often called a terminal window.
 - [Iterm2](https://www.iterm2.com)
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
-
 # Shells
 - [Zsh](http://www.zsh.org/)
   - [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh)
