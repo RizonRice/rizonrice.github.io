@@ -169,6 +169,7 @@ inside a graphical user interface is often called a terminal window.
   - [st-patches](http://st.suckless.org/patches/)
 - [Terminator](https://wiki.archlinux.org/index.php/Terminator)
 - [xfce4-terminal](http://docs.xfce.org/apps/terminal/start)
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
 #### Windows
 - [Console](http://sourceforge.net/projects/console/)
