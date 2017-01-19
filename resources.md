@@ -238,9 +238,6 @@ sudo fc-cache -f -v
 - [gdipp](https://code.google.com/p/gdipp)
 - [mactype](https://code.google.com/p/mactype) - [installer](http://spoonm.org/share/mactype.exe)
 
-#### Linux
-- [Infinality](https://wiki.archlinux.org/index.php/Infinality)
-
 #### OSX
 *Do you even need it?*
 
