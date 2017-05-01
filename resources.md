@@ -214,6 +214,7 @@ inside a graphical user interface is often called a terminal window.
 - [flickr.com](https://www.flickr.com)
 - [deviantart.com](https://deviantart.com)
 - [gratisography.com](http://gratisography.com)
+- [thepatternlibrary.com](http://thepatternlibrary.com/)
 
 # Fonts
 
