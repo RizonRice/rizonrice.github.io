@@ -125,7 +125,7 @@ on Windows and OSX.
 - [Lemonbar](https://github.com/LemonBoy/bar)
 - [Tint](https://wiki.archlinux.org/index.php/Tint2)
 - [n30f](https://github.com/sdhand/n30f)
-- [lemonbuddy](https://github.com/jaagr/lemonbuddy)
+- [polybar](https://github.com/jaagr/polybar)
 
 #### Windows
 *Placeholder*
