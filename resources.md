@@ -206,7 +206,7 @@ inside a graphical user interface is often called a terminal window.
 - [simpledesktops.com](http://simpledesktops.com)
 - [subtlepatterns.com](http://subtlepatterns.com)
 - [unsplash.com](https://unsplash.com)
-- [nik.bot.nu](https://nik.bot.nu/browse.html) 
+- [nik.bot.nu](https://nik.bot.nu/browse.html) (NSFW)
 - [stripegenerator.com](http://www.stripegenerator.com)
 - [tartanmaker.com](http://www.tartanmaker.com)
 - [flickr.com](https://www.flickr.com)
