@@ -93,6 +93,7 @@ It can be part of a desktop environment (DE) or be used standalone.
 - [Mjolnir](https://github.com/sdegutis/mjolnir)
 - [KWM](https://github.com/koekeishiya/kwm)
 - [Phoenix](https://github.com/kasper/phoenix)
+- [ShiftIt](https://github.com/fikovnik/ShiftIt)
 
 # Tiling
 
@@ -266,7 +267,7 @@ sudo fc-cache -f -v
 - [stb](https://github.com/nothings/stb-imv/)
 
 #### OSX
-*Placeholder*
+- [Xee 2.2](https://xee.c3.cx/old)
 
 # Audio
 
@@ -284,6 +285,8 @@ sudo fc-cache -f -v
 
 #### OSX
 - [Vox](http://coppertino.com/)
+- [mpd](http://www.musicpd.org)
+  - [Ncmpcpp](https://rybczak.net/ncmpcpp/)
 
 # Video
 
