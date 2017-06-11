@@ -336,15 +336,14 @@ sudo fc-cache -f -v
   - [safe.moe](https://safe.moe)
   - [puush.me](http://puush.me)
   - [transfer.sh](https://transfer.sh)
-  - [curl.io](https://curl.io)
   - [u.pste.pw](https://u.pste.pw)
+  - [0x0.st](https://0x0.st/)
 - Upload tools
   - [Moe](https://github.com/Imakethings/Moe)
   - [ShareX](https://getsharex.com/)
   - [gone](https://github.com/kori/gone)
   - [uguush](https://github.com/jschx/uguush)
   - [puush](http://puush.me/)
-  - [cURL](https://curl.io/)
 - Screenshot tools
   - [maim](https://github.com/naelstrof/maim)
   - [Import](http://www.imagemagick.org/script/import.php)
