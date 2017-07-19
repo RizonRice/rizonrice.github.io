@@ -216,7 +216,7 @@ inside a graphical user interface is often called a terminal window.
 - [thepatternlibrary.com](http://thepatternlibrary.com/)
 - [duncjo01's archive](http://cs.gettysburg.edu/~duncjo01/archive/patterns/)
 
-# 
+# Fonts
 
 ## Where to get fonts?
 - [dafont.com](http://www.dafont.com)
