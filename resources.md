@@ -31,6 +31,14 @@ description: 'Ricing resources for Linux, Mac and Windows.'
 First of all; ricing won't be an easy task. I mean, sure you can copy the config
 files from someone else and live with that. But that kind of ruins the fun of it all.
 
+**A word on Linux programs in Windows 10**
+
+With the release of the WSL on Windows 10 and subsequent improvements made to it by
+Microsoft, is it easy for you to run many Linux programs on Windows 10 with perfect
+or almost perfect compatibility. If you are running windows 10 but are interested in
+using Linux programs (ncmpcpp + mpd, or weechat for example), it is worth looking into
+the WSL. [You can learn more about the WSL here.](https://msdn.microsoft.com/en-us/commandline/wsl/about)
+
 **You encounter a problem or error and don't know how to continue?**
 
 #### Google it
@@ -54,7 +62,7 @@ manual through either `$ man NAME_OF_APPLICATION` or `$ NAME_OF_APPLICATION
 
 If you still feel like you want a guide or something as a place to start,
 you can go [here](http://linuxnewbieguide.org/) for Linux, and for ricing
-on Windows 7, you can go [here](http://nanami-tan.info/).
+on Windows 7, you can go [here](http://nanami-tan.info/). For windows 10, you can go [here](http://chloechantelle.com/guide)
 
 # Window managers
 
@@ -177,6 +185,11 @@ inside a graphical user interface is often called a terminal window.
 - [Mintty](https://code.google.com/p/mintty/)
 - [Conemu](https://conemu.github.io/)
 - [Babun](https://babun.github.io/)
+
+WSL Terminals:
+
+- [Wsltty](https://github.com/mintty/wsltty)
+- [wsl-terminal](https://github.com/goreliu/wsl-terminal)
 
 #### OSX
 - [Iterm2](https://www.iterm2.com)
