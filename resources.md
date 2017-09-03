@@ -100,6 +100,7 @@ It can be part of a desktop environment (DE) or be used standalone.
 - [Spectacle](https://www.spectacleapp.com/)
 - [Mjolnir](https://github.com/sdegutis/mjolnir)
 - [KWM](https://github.com/koekeishiya/kwm)
+- [chunkwm](https://github.com/koekeishiya/chunkwm)
 - [Phoenix](https://github.com/kasper/phoenix)
 - [ShiftIt](https://github.com/fikovnik/ShiftIt)
 
