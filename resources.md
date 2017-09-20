@@ -361,6 +361,7 @@ sudo fc-cache -f -v
   - [maim](https://github.com/naelstrof/maim)
   - [Import](http://www.imagemagick.org/script/import.php)
   - [scrot](http://freecode.com/projects/scrot)
+  - [Shotgun](https://github.com/Streetwalrus/shotgun)
   - (Windows only) Pressing the Print Screen key saves the screen to your clipboard. Then, paste in any image manipulation program.
   - (Windows 8.1+ only) Windows key + Print Screen (stored in your Pictures\Screenshots folder)
 - Screen recording
