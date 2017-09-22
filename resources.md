@@ -90,11 +90,13 @@ It can be part of a desktop environment (DE) or be used standalone.
   - [Orbment](https://github.com/Cloudef/orbment)
 
 #### Windows
-- [Blackbox](http://blackbox4windows.com/) - [bbZero mirror(no registration)](http://spoonm.org/share/bbzero/)
-- [Windawesome](https://windawesome.codeplex.com)
-- [bugn](https://code.google.com/p/bugn/wiki/bugn)
+- [Blackbox](http://blackbox4windows.com/) - [bbZero mirror(no registration)](http://spoonm.org/share/bbzero/) - [Github repo](https://github.com/xzero450/bbclean-xzero450)
+- [Windawesome](https://web.archive.org/web/20170922100802/https://windawesome.codeplex.com/)
+- [bugn](https://github.com/fuhsjr00/bug.n)
 - [qt](https://github.com/Vibex/qt.pi)
 - [Tilde++](https://github.com/ragesalmon/TildePlusPlus)
+- [MaxTo (paid)](https://maxto.net/)
+- [HashTWM](https://github.com/ZaneA/HashTWM)
 
 #### OSX
 - [Spectacle](https://www.spectacleapp.com/)
@@ -118,7 +120,7 @@ looking at [window managers](#window-managers).
 
 #### Windows
 - [WinSplit](http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html)
-- [Gridmove](http://jgpaiva.dcmembers.com/gridmove.html)
+- [Gridmove](http://jgpaiva.dcmembers.com/gridmove.html) ([Mirror](https://web.archive.org/web/20170922101505/http://jgpaiva.dcmembers.com/gridmove.html))
 
 #### OSX
 - [hs.tiling](https://github.com/dsanson/hs.tiling)
@@ -161,7 +163,7 @@ A launcher is a program displaying a dialog to search for an action, typically l
 
 #### Windows
 - Start Menu (included with OS)
-- [Launchy](http://www.launchy.net/)
+- [Launchy](http://www.launchy.net/) ([Mirror](https://web.archive.org/web/20170922101723/http://www.launchy.net/))
 
 # Terminal emulators
 
@@ -183,7 +185,8 @@ inside a graphical user interface is often called a terminal window.
 
 #### Windows
 - [Console](http://sourceforge.net/projects/console/)
-- [Mintty](https://code.google.com/p/mintty/)
+- [ConsoleZ](https://github.com/cbucher/console)
+- [Mintty](https://mintty.github.io/) - [Google Code Archive](https://web.archive.org/web/20170922102049/https://code.google.com/archive/p/mintty/)
 - [Conemu](https://conemu.github.io/)
 - [Babun](https://babun.github.io/)
 
@@ -295,6 +298,7 @@ sudo fc-cache -f -v
 #### Windows
 - [Aimp](http://www.aimp.ru)
 - [Foobar](http://www.foobar2000.org)
+- [WinAmp](http://filehippo.com/es/download_winamp/)
 
 #### OSX
 - [Vox](http://coppertino.com/)
