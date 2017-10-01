@@ -88,6 +88,7 @@ It can be part of a desktop environment (DE) or be used standalone.
   - [velox](https://github.com/michaelforney/velox)
   - [sway](https://github.com/SirCmpwn/sway)
   - [Orbment](https://github.com/Cloudef/orbment)
+  - [StumpWM](https://stumpwm.github.io/)
 
 #### Windows
 - [Blackbox](http://blackbox4windows.com/) - [bbZero mirror(no registration)](http://spoonm.org/share/bbzero/)
