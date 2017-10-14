@@ -102,7 +102,6 @@ It can be part of a desktop environment (DE) or be used standalone.
 #### OSX
 - [Spectacle](https://www.spectacleapp.com/)
 - [Mjolnir](https://github.com/sdegutis/mjolnir)
-- [KWM](https://github.com/koekeishiya/kwm)
 - [chunkwm](https://github.com/koekeishiya/chunkwm)
 - [Phoenix](https://github.com/kasper/phoenix)
 - [ShiftIt](https://github.com/fikovnik/ShiftIt)
@@ -198,6 +197,7 @@ WSL Terminals:
 
 #### OSX
 - [Iterm2](https://www.iterm2.com)
+- [kitty](https://github.com/kovidgoyal/kitty)
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
 # Shells
