@@ -8,6 +8,7 @@ title: Community Guidelines
 \#rice is a community with a strong focus on technology. Whilst being mainly a ricing channel, other related topics surrounding technology are generally acceptable. However, prolonged discussion of other less-related topics is discouraged. Examples include but are not limited to:
 
 * Sex
+* Politics
 * Drug use
 * Religious beliefs
 
