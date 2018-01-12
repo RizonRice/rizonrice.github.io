@@ -278,6 +278,7 @@ sudo fc-cache -f -v
 - [pqiv](https://github.com/phillipberndt/pqiv)
 - [feh](http://feh.finalrewind.org/)
 - [meh](http://www.johnhawthorn.com/meh/)
+- [qimgv](https://github.com/easymodo/qimgv)
 
 #### Windows
 - [Honeyview](http://www.bandisoft.com/honeyview/)
