@@ -157,6 +157,7 @@ A launcher is a program displaying a dialog to search for an action, typically l
 - [interrobang](https://github.com/TrilbyWhite/interrobang)
 - [thinglaunch](http://git.r-36.net/thinglaunch/)
 - [rofi](https://github.com/DaveDavenport/rofi)
+- [xlunch](https://github.com/Tomas-M/xlunch)
 
 #### OSX
 - Finder (included with OS)
