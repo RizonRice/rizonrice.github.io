@@ -84,11 +84,11 @@ It can be part of a desktop environment (DE) or be used standalone.
   - [dwm](https://wiki.archlinux.org/index.php/Dwm)
   - [xmonad](https://wiki.archlinux.org/index.php/Xmonad)
   - [FVWM](http://www.fvwm.org/)
+  - [StumpWM](https://stumpwm.github.io/)
 - [Wayland](https://wiki.archlinux.org/index.php/Wayland)
   - [velox](https://github.com/michaelforney/velox)
   - [sway](https://github.com/SirCmpwn/sway)
   - [Orbment](https://github.com/Cloudef/orbment)
-  - [StumpWM](https://stumpwm.github.io/)
 
 #### Windows
 - [Blackbox](http://blackbox4windows.com/) - [bbZero mirror(no registration)](http://spoonm.org/share/bbzero/) - [Github repo](https://github.com/xzero450/bbclean-xzero450)
