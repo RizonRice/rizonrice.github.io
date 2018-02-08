@@ -14,7 +14,7 @@ title: Community Guidelines
 
 Otherwise, we generally abide by the following behaviours.
 
-* Avoid intentionally trying to invoke arguments/drama (commonly known as flamebaiting). This includes bringing up controversial topics purely for the sake of bringing said controversy to the channel. Examples include, but are not limited to: pro/anti-systemd, "my OS is better than your OS" and "your programming language of choice sucks".
+* Avoid intentionally trying to invoke arguments/drama (sometimes known as flamebaiting). This includes bringing up controversial topics purely for the sake of bringing said controversy to the channel. Examples include, but are not limited to: pro/anti-systemd, "my OS is better than your OS" and "your programming language of choice sucks".
 * Avoid personal attacks. If you have to argue, attack the argument, not the person.
 * Playful 'banter' is okay - just be wise about where to draw the line!
 * Keep "roleplay" in PM, nobody wants to see it.
