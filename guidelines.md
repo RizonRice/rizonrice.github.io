@@ -20,7 +20,7 @@ Otherwise, we generally abide by the following behaviours.
 * Keep "roleplay" in PM, nobody wants to see it.
 * Most of the bots in the channel can be operated over PM, so if your use of a bot dictates more than a few lines in a short amount of time, take it to PM.
 * Refrain from "mods are nazis"-esque shitposting, it does nothing but cause drama and more shitposting. If you have a specific problem with any mods or moderation of the channel in general, bring it to #rmch, we're always looking for ways to improve.
-* Please don't bring bots into \#rice without discussing it in \#rmch first, and especially don't test your bot in \#rice under any circumstances. This also applies to client scripts that output text in response to user action in a similiar way to bots.
+* Please don't bring bots into \#rice without discussing it in \#rmch first, and especially don't test your bot in \#rice under any circumstances. This also applies to client scripts that output text in response to user action in a similar way to bots.
 * Piracy: Talking about it is OK, linking to pirated material directly, or other resources whose sole purpose is linking to said materials, is not.
 * Please respect the fact that \#rice, like much of the internet, is an English-speaking community. Any non-English discussion must be taken to PM so you don't exclude the rest of the channel.
 
