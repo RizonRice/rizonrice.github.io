@@ -202,10 +202,13 @@ WSL Terminals:
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 
 # Shells
+- [Awesome Shell](https://github.com/alebcay/awesome-shell)
 - [Zsh](http://www.zsh.org/)
+  - [Awesome Zsh](https://github.com/unixorn/awesome-zsh-plugins)
   - [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh)
   - [Prezto](https://github.com/sorin-ionescu/prezto)
 - [Fish](http://fishshell.com/)
+  - [Awesome Fish](https://github.com/fisherman/awesome-fish-shell)
   - [Fisherman](http://fisherman.sh/)
 
 # Color schemes
