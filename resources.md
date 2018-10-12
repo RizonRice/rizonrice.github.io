@@ -211,7 +211,7 @@ WSL Terminals:
 - [Fish](http://fishshell.com/)
   - [Awesome Fish](https://github.com/fisherman/awesome-fish-shell)
   - [Fisherman](http://fisherman.sh/)
-  - [Oh-My-Fish](https://github.com/oh-my-fish/oh-my-fish)
+  - [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish)
 
 # Color schemes
 - [terminal.sexy](http://terminal.sexy)
