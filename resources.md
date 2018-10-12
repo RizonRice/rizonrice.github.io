@@ -161,6 +161,7 @@ A launcher is a program displaying a dialog to search for an action, typically l
 
 #### OSX
 - Finder (included with OS)
+- SpotLight (inclided with OS)
 
 #### Windows
 - Start Menu (included with OS)
@@ -210,6 +211,7 @@ WSL Terminals:
 - [Fish](http://fishshell.com/)
   - [Awesome Fish](https://github.com/fisherman/awesome-fish-shell)
   - [Fisherman](http://fisherman.sh/)
+  - [Oh-My-Fish](https://github.com/oh-my-fish/oh-my-fish)
 
 # Color schemes
 - [terminal.sexy](http://terminal.sexy)
