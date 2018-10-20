@@ -88,7 +88,7 @@ It can be part of a desktop environment (DE) or be used standalone.
 - [Wayland](https://wiki.archlinux.org/index.php/Wayland)
   - [velox](https://github.com/michaelforney/velox)
   - [sway](https://github.com/SirCmpwn/sway)
-  - [Orbment](https://github.com/Cloudef/orbment)
+  - [Orbment](https://github.com/Cloudef/orbment) ([stagnant](https://github.com/Cloudef/orbment/issues/144))
 
 #### Windows
 - [Blackbox](http://blackbox4windows.com/) - [bbZero mirror(no registration)](http://spoonm.org/share/bbzero/) - [Github repo](https://github.com/xzero450/bbclean-xzero450)
