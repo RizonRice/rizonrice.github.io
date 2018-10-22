@@ -88,6 +88,7 @@ It can be part of a desktop environment (DE) or be used standalone.
 - [Wayland](https://wiki.archlinux.org/index.php/Wayland)
   - [velox](https://github.com/michaelforney/velox)
   - [sway](https://github.com/SirCmpwn/sway)
+  - [bspwc](https://github.com/Bl4ckb0ne/bspwc)
   - [Orbment](https://github.com/Cloudef/orbment) ([stagnant](https://github.com/Cloudef/orbment/issues/144))
 
 #### Windows
