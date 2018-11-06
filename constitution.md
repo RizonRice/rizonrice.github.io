@@ -22,4 +22,4 @@ No ricer shall, in time of peace be exposed to /r/unixporn, without an installat
 Article 4
 =========
 
-The right of the people to be secure in their servers, desktops, wallpapers, and compiz effects, against unreasonable OC stealing, shall not be violated, and no warrants shall issue, but upon probable cause, supported by oath to Stallman or affirmation, and particularly describing the OC to be stolen, and the persons or things to be seized.
+The right of the people to be secure in their servers, desktops, wallpapers, and compiz effects, against unreasonable OC stealing, shall not be violated, and no warrants shall issue, but upon probable cause, supported by oath to Stallman or affirmation, and particularly describing the OC to be stolen, and the persons or things to be banned.
