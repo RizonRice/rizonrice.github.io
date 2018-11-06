@@ -1,6 +1,6 @@
 # The \#rice Constitution
 
-*Note: This is just a joke.*
+__*Note: This is just a joke.*__
 
 We the mods of \#rice, in order to form a more perfect union, establish social justice, insure domestic flamewars, provide for the common shitpost, promote the general welfare, and secure the blessings of the dictatorship to ourselves and our posterity, do ordain and establish this constitution for the glory of \#rice.
 
