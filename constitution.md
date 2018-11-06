@@ -1,0 +1,18 @@
+#The \#rice Constitution
+
+We the mods of the \#rice, in order to form a more perfect union, establish social justice, insure domestic flamewars, provide for the common shitpost, promote the general welfare, and secure the blessings of the dictatorship to ourselves and our posterity, do ordain and establish this constitution for the glory of \#rice.
+
+Article 1
+=========
+
+The mods shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof (except judaism); or allowing the freedom of speech, or the press; or the right of the people peaceably to assemble, and to petition the mods for a redress of grievances.
+
+Article 2
+=========
+
+A well regulated mod team, being necessary to the security of a free \#rice, the right of the people to keep and fire bears from cannons, shall not be infringed.
+
+Article 3
+=========
+
+No ricer shall, in time of peace be exposed to /r/unixporn, without an installation of Ubuntu and Numix, nor in time of war, but in a manner to be prescribed by law.
