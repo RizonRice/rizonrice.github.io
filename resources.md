@@ -361,8 +361,7 @@ sudo fc-cache -f -v
   - [p.fuwafuwa.moe](https://p.fuwafuwa.moe)
   - [safe.moe](https://safe.moe)
   - [puush.me](http://puush.me)
-  - [transfer.sh](https://transfer.sh)
-  - [u.pste.pw](https://u.pste.pw)
+  - [pste.pw](https://pste.pw)
   - [0x0.st](https://0x0.st/)
 - Upload tools
   - [Moe](https://github.com/Imakethings/Moe)
@@ -386,5 +385,4 @@ sudo fc-cache -f -v
   - [ix.io](http://ix.io)
   - [sprunge.us](http://sprunge.us)
   - [ptpb.pw](https://ptpb.pw)
-  - [pste.pw](https://pste.pw)
   - [pst.moe](https://pst.moe)
