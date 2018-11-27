@@ -249,6 +249,7 @@ WSL Terminals:
 - [ionicons.com](http://ionicons.com)
 - [codeface](https://github.com/chrissimpkins/codeface)
 - [bitmap-fonts](https://github.com/Tecate/bitmap-fonts)
+- [fonts.google.com](https://fonts.google.com)
 
 On Debian/Ubuntu you need to enable bitmap fonts first:
 
